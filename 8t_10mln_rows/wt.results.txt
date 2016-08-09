@@ -1,5 +1,7 @@
 wt resutls.
 datasize is 17.6GB
+storage: single harddrive
+documents: 8 collections x 10mln documents each
 
 Thread[Thread-66,5,main]10 seconds : cum tps=88,865.60 : int tps=88,865.60 : cum ips=0.00 : int ips=0.00 : writers=64
 Thread[Thread-66,5,main]20 seconds : cum tps=96,753.22 : int tps=104,640.84 : cum ips=0.00 : int ips=0.00 : writers=64
